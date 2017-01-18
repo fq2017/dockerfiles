@@ -28,7 +28,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		gcc \
 		imagemagick \
 		libbz2-dev \
-		libc6-dev \
 		libcurl4-openssl-dev \
 		libdb-dev \
 		libevent-dev \
