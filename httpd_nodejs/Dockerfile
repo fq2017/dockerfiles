@@ -43,7 +43,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		libmysqlclient-dev \
 		libncurses-dev \
 		libpng-dev \
-		libpq-dev \
 		libreadline-dev \
 		libsqlite3-dev \
 		libtool \
