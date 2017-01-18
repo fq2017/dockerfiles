@@ -46,7 +46,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		libpq-dev \
 		libreadline-dev \
 		libsqlite3-dev \
-		libssl-dev \
 		libtool \
 		libwebp-dev \
 		libxml2-dev \
